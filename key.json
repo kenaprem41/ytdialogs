@@ -1,8 +1,8 @@
 {
   "settings": {
-    "title": "PREMIUM ACCESS",
-    "subtitle": "Copy your Device ID and send it to Admin.",
-    "admin_url": "wa.me/WA.SannStore",
+    "title": "SANN STORE",
+    "subtitle": "SALIN DEVICE ID LALU BERIKAN KE ADMIN",
+    "admin_url": "",
     "banner_url": "https://imgur.com",
     "maintenance": false,
     "banned_devices": []
