@@ -22,6 +22,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-XWWMJ8": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2061-10-17",
+      "hwid": [
+        "ANY"
+      ]
     }
   }
 }
