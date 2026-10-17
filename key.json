@@ -15,14 +15,6 @@
         "ANY"
       ]
     },
-    "DP-XWWMJ8": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2061-10-17",
-      "hwid": [
-        "ANY"
-      ]
-    },
     "DP-002": {
       "status": "approved",
       "max_devices": 1,
