@@ -5,7 +5,9 @@
     "admin_url": "",
     "banner_url": "https://imgur.com",
     "maintenance": false,
-    "banned_devices": []
+    "banned_devices": [
+      "ANY"
+    ]
   },
   "keys": {
     "DP-UNIVERSAL": {
@@ -35,9 +37,7 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2030-10-17",
-      "hwid": [
-        "ANY"
-      ]
+      "hwid": []
     }
   }
 }
