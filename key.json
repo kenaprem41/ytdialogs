@@ -22,6 +22,14 @@
       "hwid": [
         "6f27a09800a51a09"
       ]
+    },
+    "DP-DI0T0R": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2036-10-17",
+      "hwid": [
+        "ANY"
+      ]
     }
   }
 }
