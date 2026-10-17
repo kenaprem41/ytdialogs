@@ -16,12 +16,6 @@
       "hwid": [
         "ANY"
       ]
-    },
-    "DP-VIP-010": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2030-10-17",
-      "hwid": []
     }
   }
 }
