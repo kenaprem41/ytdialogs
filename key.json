@@ -1,10 +1,10 @@
 {
   "settings": {
-    "title": "SANN STORE",
+    "title": "TIKTOK : Stweak",
     "subtitle": "SALIN DEVICE ID LALU BERIKAN KE ADMIN",
     "admin_url": "",
     "banner_url": "https://imgur.com",
-    "maintenance": false,
+    "maintenance": true,
     "banned_devices": []
   },
   "keys": {
