@@ -38,6 +38,14 @@
       "hwid": [
         "6f27a09800a51a09"
       ]
+    },
+    "ST-01": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2030-10-18",
+      "hwid": [
+        "9fdf8ce99054eb57"
+      ]
     }
   }
 }
