@@ -15,14 +15,6 @@
         "ANY"
       ]
     },
-    "DP-002": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-10-17",
-      "hwid": [
-        "ANY"
-      ]
-    },
     "DP-VIP-100": {
       "status": "approved",
       "max_devices": 1,
