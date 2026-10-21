@@ -27,9 +27,7 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2030-10-17",
-      "hwid": [
-        "6f27a09800a51a09"
-      ]
+      "hwid": []
     },
     "ST-01": {
       "status": "approved",
